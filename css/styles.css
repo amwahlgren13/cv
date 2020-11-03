@@ -41,6 +41,7 @@ h3 {
 hr {
   border-style: dotted none none;
   border-width: 5px;
+  clear: both;
   color: #05C7F2;
   width: 5%;
   margin: 50px auto;
